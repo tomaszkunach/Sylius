@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c346bbf-06cb-4617-9033-04a6e46224f4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/UiBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ProductBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/AttributeBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/UserBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/UiBundle/Tests/Functional/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/PromotionBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/CurrencyBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/TaxonomyBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Promotion/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/LocaleBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/CustomerBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/User/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/TaxationBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/AdminBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/PaymentBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/UserBundle/Tests/Functional/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Taxonomy/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Customer/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/TaxonomyBundle/Tests/Functional/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/InventoryBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ChannelBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ReviewBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Review/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Order/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Addressing/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/InventoryBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/AttributeBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Shipping/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Taxation/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Inventory/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ShippingBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/TaxationBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Payment/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/CoreBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/CurrencyBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Channel/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/PayumBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/OrderBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/AddressingBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/LocaleBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ShopBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Product/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ShippingBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ProductBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Attribute/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Core/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/MoneyBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Locale/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Component/Currency/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/MoneyBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/OrderBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/AddressingBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/CustomerBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/PromotionBundle/test/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Abstraction/StateMachine/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ChannelBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/PaymentBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ApiBundle/composer.json" />
+      <option value="$PROJECT_DIR$/src/Sylius/Bundle/ReviewBundle/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2nEku91g7XR9D9ivvHEeJdTDVCm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "up-grid-bundle",
+    "last_opened_file_path": "/home/tomasz.kunach/dev/sylius-plugins/Sylius",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c346bbf-06cb-4617-9033-04a6e46224f4" name="Changes" comment="" />
+      <created>1728545843618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728545843618</updated>
+      <workItem from="1728545844725" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
